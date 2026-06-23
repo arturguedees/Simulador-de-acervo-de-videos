@@ -1,5 +1,5 @@
 # descubraciencia
-Projeto para faculdade de Sistemas de Informações do curso de Programação WEB Front-End, utilizando Javascript, CSS e HTML. Simulador de acervo de vídeos de experimentos científicos caseiros que redirecionam vídeos do YouTube. Link do projeto:
+Projeto para faculdade de Sistemas de Informações do curso de Programação WEB Front-End, utilizando Javascript, CSS e HTML. Simulador de acervo de vídeos de experimentos científicos caseiros que redirecionam vídeos do YouTube. Link do projeto: https://descubraciencia.netlify.app/descubra%20ciencia/pages/
 
 PÁGINA DE LOGIN DO SITE DESCUBRA CIÊNCIA:
 <img width="1680" height="807" alt="Descubra Ciência - Login" src="https://github.com/user-attachments/assets/482428d4-4727-40c7-abad-7e273d6c4383" />
